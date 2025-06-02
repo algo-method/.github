@@ -2,7 +2,8 @@
 - [ ] セルフレビューをしたらチェックを入れてください
 - [ ] github copilot以外のAIレビューをしたらチェックを入れてください
     - [ ] レビューのプロンプトとAIのコメントをPRのコメントに追記した
-- [ ] github copilot reviewを依頼した
+- [ ] github copilot reviewを依頼し、解決した
+- [ ] greptile にレビューを依頼し、解決した
 - [ ] [NotebookLM](https://notebooklm.google.com/notebook/9f1b7eac-1c24-482d-a211-b45f3189db46?authuser=1)にレビューを依頼した
 
 ## 関連 issue
