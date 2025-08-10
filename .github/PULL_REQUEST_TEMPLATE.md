@@ -1,6 +1,4 @@
-<!-- I want to review in Japanese. -->
 - [ ] セルフレビューをしたらチェックを入れてください
-- [ ] github copilot reviewを依頼し、解決した
 - [ ] greptile にレビューを依頼し、解決した
 
 ## 関連 issue
@@ -30,17 +28,3 @@
 ## 備考
 
 <!-- この PR についての課題や、議論したいことがあればここに書いてください。 -->
-
-
-<!-- for GitHub Copilot review rule -->
-<!--
-レビューする際には、以下のprefix(接頭辞)をつけてください
-[must]  
-[imo] (in my opinion)  
-[nits](nitpick) 
-[ask]  
-[fyi]
--->
-<!-- for GitHub Copilot review  rule-->
-
-<!-- I want to review in Japanese. -->
